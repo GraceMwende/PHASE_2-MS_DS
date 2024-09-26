@@ -1,0 +1,4 @@
+SQL Subqueries - Lab.ipynb
+1)Select the Employee Number, First Name, Last Name, City (of the office), and Office Code of the Employees Who Sold Products That Have Been Ordered by Fewer Than 20 people.
+
+This problem is a bit tougher. To start, think about how you might break the problem up. Be sure that your results only list each employee once.
