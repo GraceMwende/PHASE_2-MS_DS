@@ -1,0 +1,39 @@
+Introduction
+https://github.com/learn-co-curriculum/dsc-probability-introduction
+
+Sets
+https://github.com/learn-co-curriculum/dsc-intro-to-sets
+
+Sets Lab
+https://github.com/learn-co-curriculum/dsc-intro-to-sets-lab
+
+Probability Intro
+https://github.com/learn-co-curriculum/dsc-intro-to-probability
+https://github.com/learn-co-curriculum/dsc-intro-to-probability-lab
+
+Permutations and Factorials
+https://github.com/learn-co-curriculum/dsc-permutations-and-factorials-v2-1
+
+P & Factorials Lab
+https://github.com/learn-co-curriculum/dsc-permutations-and-factorials-lab-v2-1
+
+Combinations 
+https://github.com/learn-co-curriculum/dsc-combinations
+https://github.com/learn-co-curriculum/dsc-combinations-lab
+
+Conditional Probability
+https://github.com/learn-co-curriculum/dsc-conditional-probability
+https://github.com/learn-co-curriculum/dsc-conditional-probability-lab
+
+Partitioning and the Law of Probability
+https://github.com/learn-co-curriculum/dsc-law-of-total-probability
+https://github.com/learn-co-curriculum/dsc-law-of-total-probability-lab
+
+Simulations with Conditional and Total Probability - Lab
+https://github.com/learn-co-curriculum/dsc-probability-simulations-lab
+
+Flex Video Datasets
+https://github.com/flatiron-school/ds-probability-nbz32
+
+Recap
+https://github.com/learn-co-curriculum/dsc-probability-section-recap
